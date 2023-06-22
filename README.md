@@ -1,6 +1,7 @@
 # Materials for Finding the story: Police stop data
 
 **To download these files**: Click the green code button. Select Download Zip.
+
 **Contact**: openpolicedata@gmail.com
 
 ## Resources
